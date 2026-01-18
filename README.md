@@ -1,6 +1,3 @@
-# Easycart-Ecommerce-UI-UX-Designing
-A contemporary eCommerce storefront UI for EasyCart, built with a dark-mode aesthetic, dynamic product grids, flash deals, and user-friendly navigation.
-
 # 🛒 EasyCart – E-Commerce UI/UX Design System
 
 EasyCart is a **modern, dark-themed eCommerce UI/UX design project** focused on delivering a **clean, intuitive, and premium shopping experience**.  
